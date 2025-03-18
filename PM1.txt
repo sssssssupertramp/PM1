@@ -1,2 +1,2 @@
-> myString <- "Hello, World!"
+> myString <- "Hello, Everyone!"
 > print ( myString)
